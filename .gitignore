@@ -1,0 +1,18 @@
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# CodeBuddy workspace data
+.codebuddy/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp files and logs
+*.log
+*.tmp
+*.bak
+*~
